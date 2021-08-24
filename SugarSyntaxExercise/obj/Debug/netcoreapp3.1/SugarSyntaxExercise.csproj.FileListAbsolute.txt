@@ -1,0 +1,13 @@
+C:\Users\phoen\repos\SugarSyntaxExercise\SugarSyntaxExercise\bin\Debug\netcoreapp3.1\SugarSyntaxExercise.exe
+C:\Users\phoen\repos\SugarSyntaxExercise\SugarSyntaxExercise\bin\Debug\netcoreapp3.1\SugarSyntaxExercise.deps.json
+C:\Users\phoen\repos\SugarSyntaxExercise\SugarSyntaxExercise\bin\Debug\netcoreapp3.1\SugarSyntaxExercise.runtimeconfig.json
+C:\Users\phoen\repos\SugarSyntaxExercise\SugarSyntaxExercise\bin\Debug\netcoreapp3.1\SugarSyntaxExercise.runtimeconfig.dev.json
+C:\Users\phoen\repos\SugarSyntaxExercise\SugarSyntaxExercise\bin\Debug\netcoreapp3.1\SugarSyntaxExercise.dll
+C:\Users\phoen\repos\SugarSyntaxExercise\SugarSyntaxExercise\bin\Debug\netcoreapp3.1\SugarSyntaxExercise.pdb
+C:\Users\phoen\repos\SugarSyntaxExercise\SugarSyntaxExercise\obj\Debug\netcoreapp3.1\SugarSyntaxExercise.csproj.AssemblyReference.cache
+C:\Users\phoen\repos\SugarSyntaxExercise\SugarSyntaxExercise\obj\Debug\netcoreapp3.1\SugarSyntaxExercise.AssemblyInfoInputs.cache
+C:\Users\phoen\repos\SugarSyntaxExercise\SugarSyntaxExercise\obj\Debug\netcoreapp3.1\SugarSyntaxExercise.AssemblyInfo.cs
+C:\Users\phoen\repos\SugarSyntaxExercise\SugarSyntaxExercise\obj\Debug\netcoreapp3.1\SugarSyntaxExercise.csproj.CoreCompileInputs.cache
+C:\Users\phoen\repos\SugarSyntaxExercise\SugarSyntaxExercise\obj\Debug\netcoreapp3.1\SugarSyntaxExercise.dll
+C:\Users\phoen\repos\SugarSyntaxExercise\SugarSyntaxExercise\obj\Debug\netcoreapp3.1\SugarSyntaxExercise.pdb
+C:\Users\phoen\repos\SugarSyntaxExercise\SugarSyntaxExercise\obj\Debug\netcoreapp3.1\SugarSyntaxExercise.genruntimeconfig.cache
